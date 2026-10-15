@@ -1,0 +1,4 @@
+interface:
+  display_name: "Moodle i Aules amb Chrome"
+  short_description: "Connecta Chrome i gestiona cursos Moodle"
+  default_prompt: "Usa $aules-chrome per connectar-te al curs Moodle que t’indique i aplicar els canvis demanats."

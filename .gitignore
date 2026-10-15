@@ -1,0 +1,27 @@
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
+treball-local/
+
+# Còpies i dades particulars dels cursos
+*.mbz
+*.zip
+*.zip.tmp
+*.sha256
+SHA256SUMS
+exportacio*.json
+VALIDACIO.txt
+downloads/
+exports/
+
+# Configuració privada i sessions del navegador
+.env
+.env.*
+cookies*.json
+storage_state*.json
+storage-state*.json
+*.har
+chrome-profile/
+profile-*/

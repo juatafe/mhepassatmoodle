@@ -1,0 +1,2 @@
+# Dependències del connector; es mantenen dins de la skill perquè siga portable.
+-r .agents/skills/aules-chrome/requirements.txt
